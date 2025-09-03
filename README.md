@@ -46,3 +46,5 @@ Juego de la Vida de Conway en Rust, utilizando un framebuffer lógico con render
 ```bash
 cd lab2
 cargo run
+
+![alt text](assets/lab2.gif)
