@@ -42,9 +42,13 @@ Juego de la Vida de Conway en Rust, utilizando un framebuffer lógico con render
   - `Neon`: ciclo fluorescente
 
 
+### Juego
+
+![juego](assets/lab2.gif)
+
+
 ### Compilar y correr
 ```bash
 cd lab2
 cargo run
 
-![alt text](assets/lab2.gif)
